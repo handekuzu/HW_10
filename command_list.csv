@@ -1,0 +1,49 @@
+    1  [200~git config --global user.name "Adınız Soyadınız"
+    2  gt confg --global user.emal "emalexample.com"
+    3  git config --global user.name "hande kuzu"
+    4  git config --global user.email "handekahraman92@gmail.com"
+    5  git config --global user.name "hande kuzu"
+    6  git config --global user.email "handekahraman92@gmail.com"
+    7  git config --global user.name "hande kuzu"
+    8  git config --global user.name "hande kuzu"
+    9  git config --global user.email "handekahraman92@gmail.com"
+   10  clear
+   11  cd
+   12  cd C:\Users\Hande\OneDrive\Masaüstü\QA_Tester_Eğitim\Ödev 12
+   13  cd C:\Users\Hande\OneDrive\Masaüstü\HW_10
+   14  cd C:\Users\Hande\OneDrive\Masaüstü\HW_10
+   15  cd /c/Users/Hande/OneDrive/Masaüstü
+   16  cd /c/Users/Hande/OneDrive/Masaüstü/HW_10
+   17  cd /c/Users/Hande/OneDrive/Masaüstü/HW_10
+   18  cd /c/Users/Hande/OneDrive/Masaüstü/HW_10
+   19  clear
+   20  git clone https://github.com/handekuzu/HW_10.git
+   21  cd HW_10
+   22  git remote -v
+   23  touch text_ignore.txt
+   24  git status
+   25  git status
+   26  git add .
+   27  git init
+   28  git add .
+   29  git commit -m
+   30  git commit
+   31  git status
+   32  touch main_test.txt
+   33  git add .
+   34  git status
+   35  git commit -m"Görev 2"
+   36  git branch develop
+   37  git branch
+   38  git checkout develop
+   39  touch develop_test.txt
+   40  git add .
+   41  git commit -m"Görev 3"
+   42  git status
+   43  git add .
+   44  git commit -m"Görev 3.1"
+   45  git checkout main
+   46  git branch
+   47  git merge develop
+   48  git log
+   49  history > command_list.csv
